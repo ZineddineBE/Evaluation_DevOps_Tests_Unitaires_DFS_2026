@@ -6,12 +6,12 @@ class HtmlFormatHelper
 {
     public function getBoldFormat(string $content): string
     {
-        return "<b>{$content}</b>";
+        return "<b>$content</b>";
     }
 
     public function getItalicFormat(string $content): string
     {
-        return "<i>{$content}</i>";
+        return "<i>$content</i>";
     }
 
     public function getFormattedListElements(array $contents): string
