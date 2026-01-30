@@ -1,4 +1,8 @@
 {
+    "name": "zineddinebe/evaluation_devops_tests_unitaires_dfs_2026",
+    "description": "evaluation devops tests unitaires dfs 2026",
+    "license": "MIT",
+    "type": "project",
     "require-dev": {
         "phpunit/phpunit": "^12.5"
     }
